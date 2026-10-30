@@ -25,6 +25,7 @@ If you wish to modify or run the tool directly from the source code:
    cd Downloader-Firefly
 
 2. Run the main script (Pillow will be installed automatically if not present):
+   ```bash
    python Downloader.py
 
 ======================================================================================
