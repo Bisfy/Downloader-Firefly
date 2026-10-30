@@ -1,2 +1,2 @@
 # Downloader-Firefly-
-Downloader in terminal
+Music/Video downloader in terminal
